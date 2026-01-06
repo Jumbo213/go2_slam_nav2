@@ -1,6 +1,6 @@
 # Unitree Go2 原生 2D SLAM 与 Nav2 导航（ROS 2 Jazzy）🤖
 
-[English Version (README.md)](./README.md)
+[English Version](./README.md)
 
 ## 1. 🎯 项目作用
 
