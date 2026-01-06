@@ -1,7 +1,7 @@
 # Unitree Go2 Native 2D SLAM & Nav2 Navigation (ROS 2 Jazzy) 🤖
 
 
-[中文说明 (README_zh.md)](./README_ZH.md)
+[中文说明 (README_zh.md)](./README_Zh.md)
 
 ## 1. 🎯 Project Purpose
 
