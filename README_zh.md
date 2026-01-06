@@ -14,7 +14,6 @@
 
 同时包含键盘遥控与 Go2 姿态/位姿可视化功能，便于调试与使用。
 
----
 
 ## 2. 🧰 硬件与环境
 
@@ -22,7 +21,6 @@
 - 系统：**Ubuntu 24.04**
 - ROS 2：**Jazzy**
 
----
 
 ## 3. 🧩 软件栈
 
@@ -30,7 +28,6 @@
 - slam-toolbox
 - Nav2（nav2 / nav2_bringup）
 
----
 
 ## 4. ✅ 已实现功能
 
@@ -39,7 +36,6 @@
 3. 基于 **slam-toolbox** 的 2D 建图
 4. 基于 **Nav2** 的导航
 
----
 
 ## 5. 🛠️ 安装与编译
 
@@ -141,7 +137,6 @@ ros2 launch nav2_bringup navigation_launch.py \
   params_file:=~/go2_slam_nav2/config/nav2_params.yaml
 ```
 
----
 
 ## 7. ⚙️ 配置
 
@@ -155,7 +150,6 @@ ros2 launch nav2_bringup navigation_launch.py \
 * 各 Frame ID（例如 `base_link`、`odom`、`map`、以及雷达 frame）
 * TF 树满足导航要求（常见为 `map -> odom -> base_link`）
 
----
 
 ## 8. 🙏 致谢
 
